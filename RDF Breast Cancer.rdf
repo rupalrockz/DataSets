@@ -1,0 +1,4165 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+        xmlns:rss="http://purl.org/rss/1.0/"
+        xmlns:foaf="http://xmlns.com/foaf/0.1/"
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:wot="http://xmlns.com/wot/0.1/"
+
+>
+
+
+<foaf:PersonalProfileDocument rdf:about="">
+  <foaf:maker rdf:resource="#i" />
+  <foaf:primaryTopic rdf:resource="#i" />
+</foaf:PersonalProfileDocument>
+
+
+<foaf:Person rdf:about="#i">
+  <foaf:name>HARSH</foaf:name>
+  <foaf:title>Mr</foaf:title>
+  <foaf:family_name>Beckett</foaf:family_name>
+  <foaf:givenname>David</foaf:givenname>
+
+  <foaf:mbox_sha1sum>harshbardhan_iacr@gmail.com</foaf:mbox_sha1sum>
+
+  <foaf:homepage rdf:resource="http://purl.org/net/dajobe/"/>
+  <foaf:img rdf:resource="http://www.dajobe.org/face.png"/>
+
+  <foaf:weblog>
+    <foaf:Document rdf:about='http://journal.dajobe.org/journal/'
+       dc:title='Dave Beckett -- Journalblog'>
+      <rdfs:seeAlso rdf:resource='http://journal.dajobe.org/journal/comments.rdf'
+                    rdf:type='http://purl.org/rss/1.0/channel'
+                    rss:title="Dave Beckett -- Journablog"/>
+    </foaf:Document>
+  </foaf:weblog>
+
+  <foaf:workplaceHomePage rdf:resource="http://www.yahoo.com/" />
+
+  <foaf:depiction>
+    <foaf:Image rdf:about="http://www.dajobe.org/face.png">
+       <dc:title>Dave Beckett</dc:title>
+       <dc:description>Picture of Dave in 2005</dc:description>
+       <dc:format>image/png</dc:format>
+    </foaf:Image>
+  </foaf:depiction>
+
+
+ 
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:name> Rupal Gupta</foaf:name>
+      <foaf:dept>USICT,GGSIPU</foaf:dept>
+      <foaf:weblog>
+         <foaf:Document rdf:about="http://norman.walsh.name/" dc:title="norman.walsh.name"/>
+      </foaf:weblog>
+      <foaf:spec>Semantic web</foaf:spec>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>4</foaf:cellsize>
+	<foaf:cellshape>3</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>3</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>9</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>2</foaf:cellshape>
+	<foaf:marginaladhesion>6</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>4</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>7</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>7</foaf:NormalNucleoli>
+	<foaf:Mitoses>2</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>10</foaf:ClumpThickness>
+      <foaf:cellsize>4</foaf:cellsize>
+	<foaf:cellshape>7</foaf:cellshape>
+	<foaf:marginaladhesion>2</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>8</foaf:BareNuclei>
+	<foaf:BlandChromatin>6</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>6</foaf:ClumpThickness>
+      <foaf:cellsize>10</foaf:cellsize>
+	<foaf:cellshape>10</foaf:cellshape>
+	<foaf:marginaladhesion>10</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>8</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>7</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>10</foaf:NormalNucleoli>
+	<foaf:Mitoses>7</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>5</foaf:BareNuclei>
+	<foaf:BlandChromatin>5</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>7</foaf:ClumpThickness>
+      <foaf:cellsize>6</foaf:cellsize>
+	<foaf:cellshape>10</foaf:cellshape>
+	<foaf:marginaladhesion>5</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>9</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>10</foaf:NormalNucleoli>
+	<foaf:Mitoses>2</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>8</foaf:ClumpThickness>
+      <foaf:cellsize>10</foaf:cellsize>
+	<foaf:cellshape>10</foaf:cellshape>
+	<foaf:marginaladhesion>8</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>5</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>7</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>8</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>8</foaf:ClumpThickness>
+      <foaf:cellsize>4</foaf:cellsize>
+	<foaf:cellshape>4</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>9</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>3</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>8</foaf:cellsize>
+	<foaf:cellshape>8</foaf:cellshape>
+	<foaf:marginaladhesion>10</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>5</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>8</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>10</foaf:NormalNucleoli>
+	<foaf:Mitoses>3</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>4</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>6</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>3</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>2</foaf:cellsize>
+	<foaf:cellshape>2</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>2</foaf:cellsize>
+	<foaf:cellshape>2</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>3</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>3</foaf:cellsize>
+	<foaf:cellshape>2</foaf:cellshape>
+	<foaf:marginaladhesion>8</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>5</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>8</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>2</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>10</foaf:ClumpThickness>
+      <foaf:cellsize>4</foaf:cellsize>
+	<foaf:cellshape>4</foaf:cellshape>
+	<foaf:marginaladhesion>10</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>5</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>3</foaf:NormalNucleoli>
+	<foaf:Mitoses>3</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>7</foaf:cellsize>
+	<foaf:cellshape>7</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>5</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>8</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>4</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>10</foaf:ClumpThickness>
+      <foaf:cellsize>5</foaf:cellsize>
+	<foaf:cellshape>8</foaf:cellshape>
+	<foaf:marginaladhesion>10</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>5</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>3</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>10</foaf:ClumpThickness>
+      <foaf:cellsize>5</foaf:cellsize>
+	<foaf:cellshape>8</foaf:cellshape>
+	<foaf:marginaladhesion>10</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>5</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>3</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>10</foaf:cellsize>
+	<foaf:cellshape>10</foaf:cellshape>
+	<foaf:marginaladhesion>6</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>10</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>10</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>6</foaf:NormalNucleoli>
+	<foaf:Mitoses>5</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>10</foaf:cellsize>
+	<foaf:cellshape>10</foaf:cellshape>
+	<foaf:marginaladhesion>6</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>10</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>10</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>6</foaf:NormalNucleoli>
+	<foaf:Mitoses>5</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>8</foaf:ClumpThickness>
+      <foaf:cellsize>8</foaf:cellsize>
+	<foaf:cellshape>9</foaf:cellshape>
+	<foaf:marginaladhesion>4</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>5</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>7</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>8</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>8</foaf:ClumpThickness>
+      <foaf:cellsize>8</foaf:cellsize>
+	<foaf:cellshape>9</foaf:cellshape>
+	<foaf:marginaladhesion>4</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>5</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>7</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>8</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>10</foaf:ClumpThickness>
+      <foaf:cellsize>4</foaf:cellsize>
+	<foaf:cellshape>4</foaf:cellshape>
+	<foaf:marginaladhesion>10</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>6</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>5</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>5</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>7</foaf:ClumpThickness>
+      <foaf:cellsize>9</foaf:cellsize>
+	<foaf:cellshape>4</foaf:cellshape>
+	<foaf:marginaladhesion>10</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>10</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>3</foaf:BareNuclei>
+	<foaf:BlandChromatin>5</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>3</foaf:NormalNucleoli>
+	<foaf:Mitoses>3</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>3</foaf:ClumpThickness>
+      <foaf:cellsize>3</foaf:cellsize>
+	<foaf:cellshape>5</foaf:cellshape>
+	<foaf:marginaladhesion>2</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>7</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>3</foaf:ClumpThickness>
+      <foaf:cellsize>3</foaf:cellsize>
+	<foaf:cellshape>5</foaf:cellshape>
+	<foaf:marginaladhesion>2</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>7</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>10</foaf:ClumpThickness>
+      <foaf:cellsize>8</foaf:cellsize>
+	<foaf:cellshape>8</foaf:cellshape>
+	<foaf:marginaladhesion>2</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>4</foaf:BareNuclei>
+	<foaf:BlandChromatin>8</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>7</foaf:NormalNucleoli>
+	<foaf:Mitoses>8</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>3</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>10</foaf:ClumpThickness>
+      <foaf:cellsize>5</foaf:cellsize>
+	<foaf:cellshape>10</foaf:cellshape>
+	<foaf:marginaladhesion>3</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>5</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>8</foaf:BareNuclei>
+	<foaf:BlandChromatin>7</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>8</foaf:NormalNucleoli>
+	<foaf:Mitoses>3</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>4</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>2</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>4</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>10</foaf:ClumpThickness>
+      <foaf:cellsize>9</foaf:cellsize>
+	<foaf:cellshape>7</foaf:cellshape>
+	<foaf:marginaladhesion>3</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>4</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>2</foaf:BareNuclei>
+	<foaf:BlandChromatin>7</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>7</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>8</foaf:ClumpThickness>
+      <foaf:cellsize>4</foaf:cellsize>
+	<foaf:cellshape>7</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>9</foaf:NormalNucleoli>
+	<foaf:Mitoses>2</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>10</foaf:ClumpThickness>
+      <foaf:cellsize>4</foaf:cellsize>
+	<foaf:cellshape>5</foaf:cellshape>
+	<foaf:marginaladhesion>4</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>5</foaf:BareNuclei>
+	<foaf:BlandChromatin>7</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>3</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>3</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>1</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>7</foaf:ClumpThickness>
+      <foaf:cellsize>2</foaf:cellsize>
+	<foaf:cellshape>4</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>4</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>3</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>3</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>2</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>3</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>3</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>3</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>8</foaf:ClumpThickness>
+      <foaf:cellsize>7</foaf:cellsize>
+	<foaf:cellshape>8</foaf:cellshape>
+	<foaf:marginaladhesion>5</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>5</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>9</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>10</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>10</foaf:ClumpThickness>
+      <foaf:cellsize>5</foaf:cellsize>
+	<foaf:cellshape>7</foaf:cellshape>
+	<foaf:marginaladhesion>3</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>7</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>3</foaf:NormalNucleoli>
+	<foaf:Mitoses>8</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>3</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>2</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>2</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>4</foaf:cellsize>
+	<foaf:cellshape>3</foaf:cellshape>
+	<foaf:marginaladhesion>10</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>4</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>5</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>6</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>10</foaf:ClumpThickness>
+      <foaf:cellsize>4</foaf:cellsize>
+	<foaf:cellshape>6</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>5</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>3</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>4</foaf:ClumpThickness>
+      <foaf:cellsize>3</foaf:cellsize>
+	<foaf:cellshape>2</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>3</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>4</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>2</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>7</foaf:ClumpThickness>
+      <foaf:cellsize>4</foaf:cellsize>
+	<foaf:cellshape>5</foaf:cellshape>
+	<foaf:marginaladhesion>10</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>8</foaf:NormalNucleoli>
+	<foaf:Mitoses>2</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>2</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>4</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>8</foaf:ClumpThickness>
+      <foaf:cellsize>10</foaf:cellsize>
+	<foaf:cellshape>10</foaf:cellshape>
+	<foaf:marginaladhesion>10</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>8</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>10</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>7</foaf:NormalNucleoli>
+	<foaf:Mitoses>3</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>10</foaf:ClumpThickness>
+      <foaf:cellsize>10</foaf:cellsize>
+	<foaf:cellshape>10</foaf:cellshape>
+	<foaf:marginaladhesion>10</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>10</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>4</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>10</foaf:NormalNucleoli>
+	<foaf:Mitoses>10</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>3</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>6</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>3</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>4</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>5</foaf:BareNuclei>
+	<foaf:BlandChromatin>5</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>10</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>6</foaf:cellsize>
+	<foaf:cellshape>6</foaf:cellshape>
+	<foaf:marginaladhesion>8</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>6</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>4</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>10</foaf:NormalNucleoli>
+	<foaf:Mitoses>4</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>10</foaf:cellsize>
+	<foaf:cellshape>10</foaf:cellshape>
+	<foaf:marginaladhesion>10</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>10</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>10</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>4</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>3</foaf:cellshape>
+	<foaf:marginaladhesion>3</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>3</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>2</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>8</foaf:ClumpThickness>
+      <foaf:cellsize>8</foaf:cellsize>
+	<foaf:cellshape>8</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>6</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>10</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>3</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>3</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>10</foaf:ClumpThickness>
+      <foaf:cellsize>4</foaf:cellsize>
+	<foaf:cellshape>4</foaf:cellshape>
+	<foaf:marginaladhesion>6</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>3</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>4</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>5</foaf:cellsize>
+	<foaf:cellshape>7</foaf:cellshape>
+	<foaf:marginaladhesion>8</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>6</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>7</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>4</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>10</foaf:ClumpThickness>
+      <foaf:cellsize>4</foaf:cellsize>
+	<foaf:cellshape>3</foaf:cellshape>
+	<foaf:marginaladhesion>10</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>4</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>10</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>3</foaf:cellsize>
+	<foaf:cellshape>4</foaf:cellshape>
+	<foaf:marginaladhesion>3</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>4</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>5</foaf:BareNuclei>
+	<foaf:BlandChromatin>4</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>7</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>8</foaf:ClumpThickness>
+      <foaf:cellsize>2</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>5</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>8</foaf:ClumpThickness>
+      <foaf:cellsize>4</foaf:cellsize>
+	<foaf:cellshape>10</foaf:cellshape>
+	<foaf:marginaladhesion>5</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>4</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>4</foaf:BareNuclei>
+	<foaf:BlandChromatin>7</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>10</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>10</foaf:ClumpThickness>
+      <foaf:cellsize>10</foaf:cellsize>
+	<foaf:cellshape>10</foaf:cellshape>
+	<foaf:marginaladhesion>7</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>9</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>7</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>10</foaf:NormalNucleoli>
+	<foaf:Mitoses>10</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>8</foaf:ClumpThickness>
+      <foaf:cellsize>3</foaf:cellsize>
+	<foaf:cellshape>4</foaf:cellshape>
+	<foaf:marginaladhesion>9</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>3</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>1</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>8</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>3</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>3</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>4</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>2</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>10</foaf:ClumpThickness>
+      <foaf:cellsize>8</foaf:cellsize>
+	<foaf:cellshape>4</foaf:cellshape>
+	<foaf:marginaladhesion>4</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>4</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>10</foaf:NormalNucleoli>
+	<foaf:Mitoses>4</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+<foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>2</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>7</foaf:ClumpThickness>
+      <foaf:cellsize>6</foaf:cellsize>
+	<foaf:cellshape>4</foaf:cellshape>
+	<foaf:marginaladhesion>8</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>10</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>9</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>5</foaf:NormalNucleoli>
+	<foaf:Mitoses>3</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>8</foaf:ClumpThickness>
+      <foaf:cellsize>10</foaf:cellsize>
+	<foaf:cellshape>10</foaf:cellshape>
+	<foaf:marginaladhesion>10</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>6</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>10</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>10</foaf:NormalNucleoli>
+	<foaf:Mitoses>10</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>1</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>2</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>2</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>2</foaf:cellsize>
+	<foaf:cellshape>2</foaf:cellshape>
+	<foaf:marginaladhesion>2</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>3</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>1</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>3</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>3</foaf:ClumpThickness>
+      <foaf:cellsize>4</foaf:cellsize>
+	<foaf:cellshape>4</foaf:cellshape>
+	<foaf:marginaladhesion>10</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>5</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>3</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>4</foaf:ClumpThickness>
+      <foaf:cellsize>2</foaf:cellsize>
+	<foaf:cellshape>3</foaf:cellshape>
+	<foaf:marginaladhesion>5</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>8</foaf:BareNuclei>
+	<foaf:BlandChromatin>7</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>6</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>3</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>2</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>7</foaf:ClumpThickness>
+      <foaf:cellsize>4</foaf:cellsize>
+	<foaf:cellshape>4</foaf:cellshape>
+	<foaf:marginaladhesion>3</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>4</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>6</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>9</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>2</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>10</foaf:ClumpThickness>
+      <foaf:cellsize>6</foaf:cellsize>
+	<foaf:cellshape>3</foaf:cellshape>
+	<foaf:marginaladhesion>6</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>4</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>7</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>8</foaf:NormalNucleoli>
+	<foaf:Mitoses>4</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>3</foaf:ClumpThickness>
+      <foaf:cellsize>4</foaf:cellsize>
+	<foaf:cellshape>5</foaf:cellshape>
+	<foaf:marginaladhesion>3</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>7</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>3</foaf:BareNuclei>
+	<foaf:BlandChromatin>4</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>6</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>2</foaf:ClumpThickness>
+      <foaf:cellsize>7</foaf:cellsize>
+	<foaf:cellshape>10</foaf:cellshape>
+	<foaf:marginaladhesion>10</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>7</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>4</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>9</foaf:NormalNucleoli>
+	<foaf:Mitoses>4</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>4</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>2</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>3</foaf:cellsize>
+	<foaf:cellshape>3</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>3</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>3</foaf:NormalNucleoli>
+	<foaf:Mitoses>3</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>8</foaf:ClumpThickness>
+      <foaf:cellsize>10</foaf:cellsize>
+	<foaf:cellshape>10</foaf:cellshape>
+	<foaf:marginaladhesion>7</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>10</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>7</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>3</foaf:NormalNucleoli>
+	<foaf:Mitoses>8</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>8</foaf:ClumpThickness>
+      <foaf:cellsize>10</foaf:cellsize>
+	<foaf:cellshape>5</foaf:cellshape>
+	<foaf:marginaladhesion>3</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>8</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>4</foaf:BareNuclei>
+	<foaf:BlandChromatin>4</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>10</foaf:NormalNucleoli>
+	<foaf:Mitoses>3</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>4</foaf:ClumpThickness>
+      <foaf:cellsize>2</foaf:cellsize>
+	<foaf:cellshape>2</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>1</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>2</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>10</foaf:ClumpThickness>
+      <foaf:cellsize>3</foaf:cellsize>
+	<foaf:cellshape>5</foaf:cellshape>
+	<foaf:marginaladhesion>4</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>7</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>5</foaf:NormalNucleoli>
+	<foaf:Mitoses>3</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>6</foaf:ClumpThickness>
+      <foaf:cellsize>10</foaf:cellsize>
+	<foaf:cellshape>10</foaf:cellshape>
+	<foaf:marginaladhesion>10</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>10</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>8</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>10</foaf:NormalNucleoli>
+	<foaf:Mitoses>10</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>3</foaf:ClumpThickness>
+      <foaf:cellsize>10</foaf:cellsize>
+	<foaf:cellshape>3</foaf:cellshape>
+	<foaf:marginaladhesion>10</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>6</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>5</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>4</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>7</foaf:cellsize>
+	<foaf:cellshape>10</foaf:cellshape>
+	<foaf:marginaladhesion>6</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>5</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>7</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>5</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>3</foaf:ClumpThickness>
+      <foaf:cellsize>2</foaf:cellsize>
+	<foaf:cellshape>2</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>4</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>3</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>4</foaf:ClumpThickness>
+      <foaf:cellsize>4</foaf:cellsize>
+	<foaf:cellshape>4</foaf:cellshape>
+	<foaf:marginaladhesion>2</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>3</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>10</foaf:cellsize>
+	<foaf:cellshape>10</foaf:cellshape>
+	<foaf:marginaladhesion>3</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>7</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>3</foaf:BareNuclei>
+	<foaf:BlandChromatin>8</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>10</foaf:NormalNucleoli>
+	<foaf:Mitoses>2</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>2</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>2</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>4</foaf:ClumpThickness>
+      <foaf:cellsize>8</foaf:cellsize>
+	<foaf:cellshape>6</foaf:cellshape>
+	<foaf:marginaladhesion>4</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>4</foaf:BareNuclei>
+	<foaf:BlandChromatin>10</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>6</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>4</foaf:ClumpThickness>
+      <foaf:cellsize>8</foaf:cellsize>
+	<foaf:cellshape>8</foaf:cellshape>
+	<foaf:marginaladhesion>5</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>4</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>5</foaf:BareNuclei>
+	<foaf:BlandChromatin>10</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>4</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>3</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>1</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>3</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>3</foaf:ClumpThickness>
+      <foaf:cellsize>2</foaf:cellsize>
+	<foaf:cellshape>2</foaf:cellshape>
+	<foaf:marginaladhesion>2</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>2</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>4</foaf:cellsize>
+	<foaf:cellshape>4</foaf:cellshape>
+	<foaf:marginaladhesion>5</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>7</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>2</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>3</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>2</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>6</foaf:ClumpThickness>
+      <foaf:cellsize>8</foaf:cellsize>
+	<foaf:cellshape>8</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>4</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>7</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>2</foaf:ClumpThickness>
+      <foaf:cellsize>3</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>4</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>3</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>6</foaf:ClumpThickness>
+      <foaf:cellsize>3</foaf:cellsize>
+	<foaf:cellshape>3</foaf:cellshape>
+	<foaf:marginaladhesion>5</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>5</foaf:NormalNucleoli>
+	<foaf:Mitoses>3</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>8</foaf:ClumpThickness>
+      <foaf:cellsize>10</foaf:cellsize>
+	<foaf:cellshape>10</foaf:cellshape>
+	<foaf:marginaladhesion>8</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>7</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>9</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>7</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>2</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>2</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>2</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>2</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>2</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>1</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>2</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>5</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>4</foaf:ClumpThickness>
+      <foaf:cellsize>2</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>1</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>2</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>4</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>3</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>3</foaf:cellsize>
+	<foaf:cellshape>3</foaf:cellshape>
+	<foaf:marginaladhesion>3</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>3</foaf:BareNuclei>
+	<foaf:BlandChromatin>4</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>4</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>3</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>3</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>3</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>8</foaf:ClumpThickness>
+      <foaf:cellsize>7</foaf:cellsize>
+	<foaf:cellshape>5</foaf:cellshape>
+	<foaf:marginaladhesion>10</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>7</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>9</foaf:BareNuclei>
+	<foaf:BlandChromatin>5</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>5</foaf:NormalNucleoli>
+	<foaf:Mitoses>4</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>7</foaf:ClumpThickness>
+      <foaf:cellsize>4</foaf:cellsize>
+	<foaf:cellshape>6</foaf:cellshape>
+	<foaf:marginaladhesion>4</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>6</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>4</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>3</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>4</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>4</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>10</foaf:ClumpThickness>
+      <foaf:cellsize>7</foaf:cellsize>
+	<foaf:cellshape>7</foaf:cellshape>
+	<foaf:marginaladhesion>6</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>4</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>4</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>2</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>6</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+
+
+
+
+
+
+
+
+ <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>7</foaf:ClumpThickness>
+      <foaf:cellsize>3</foaf:cellsize>
+	<foaf:cellshape>2</foaf:cellshape>
+	<foaf:marginaladhesion>10</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>5</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>5</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>4</foaf:NormalNucleoli>
+	<foaf:Mitoses>4</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>10</foaf:ClumpThickness>
+      <foaf:cellsize>5</foaf:cellsize>
+	<foaf:cellshape>5</foaf:cellshape>
+	<foaf:marginaladhesion>3</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>6</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>7</foaf:BareNuclei>
+	<foaf:BlandChromatin>7</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>10</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>2</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>3</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>8</foaf:ClumpThickness>
+      <foaf:cellsize>4</foaf:cellsize>
+	<foaf:cellshape>5</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>7</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>3</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>1</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>3</foaf:cellshape>
+	<foaf:marginaladhesion>2</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>4</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>2</foaf:cellsize>
+	<foaf:cellshape>3</foaf:cellshape>
+	<foaf:marginaladhesion>4</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>7</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>6</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>3</foaf:ClumpThickness>
+      <foaf:cellsize>2</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>1</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>2</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>3</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>1</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>3</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>3</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>1</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>3</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>2</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>3</foaf:ClumpThickness>
+      <foaf:cellsize>6</foaf:cellsize>
+	<foaf:cellshape>4</foaf:cellshape>
+	<foaf:marginaladhesion>10</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>3</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>4</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>2</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>10</foaf:ClumpThickness>
+      <foaf:cellsize>10</foaf:cellsize>
+	<foaf:cellshape>10</foaf:cellshape>
+	<foaf:marginaladhesion>8</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>6</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>8</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>9</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>2</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>10</foaf:ClumpThickness>
+      <foaf:cellsize>7</foaf:cellsize>
+	<foaf:cellshape>7</foaf:cellshape>
+	<foaf:marginaladhesion>3</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>8</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>5</foaf:BareNuclei>
+	<foaf:BlandChromatin>7</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>4</foaf:NormalNucleoli>
+	<foaf:Mitoses>3</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>10</foaf:ClumpThickness>
+      <foaf:cellsize>10</foaf:cellsize>
+	<foaf:cellshape>10</foaf:cellshape>
+	<foaf:marginaladhesion>10</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>6</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>8</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>5</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>2</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>2</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>3</foaf:ClumpThickness>
+      <foaf:cellsize>3</foaf:cellsize>
+	<foaf:cellshape>2</foaf:cellshape>
+	<foaf:marginaladhesion>2</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellsize>3</foaf:SingleEpithelialCellsize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>2</foaf:NormalNucleoli>
+	<foaf:Mitoses>3</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>6</foaf:ClumpThickness>
+      <foaf:cellsize>3</foaf:cellsize>
+	<foaf:cellshape>4</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>5</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>2</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>9</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>2</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>2</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>2</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>10</foaf:ClumpThickness>
+      <foaf:cellsize>4</foaf:cellsize>
+	<foaf:cellshape>2</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>2</foaf:BareNuclei>
+	<foaf:BlandChromatin>4</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>3</foaf:NormalNucleoli>
+	<foaf:Mitoses>10</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>4</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>3</foaf:cellsize>
+	<foaf:cellshape>4</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>8</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>4</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>9</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>8</foaf:cellsize>
+	<foaf:cellshape>9</foaf:cellshape>
+	<foaf:marginaladhesion>4</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>7</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>8</foaf:ClumpThickness>
+      <foaf:cellsize>3</foaf:cellsize>
+	<foaf:cellshape>8</foaf:cellshape>
+	<foaf:marginaladhesion>3</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>4</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>9</foaf:BareNuclei>
+	<foaf:BlandChromatin>8</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>9</foaf:NormalNucleoli>
+	<foaf:Mitoses>8</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>2</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>6</foaf:ClumpThickness>
+      <foaf:cellsize>3</foaf:cellsize>
+	<foaf:cellshape>4</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>5</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>2</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>9</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>2</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>2</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>2</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>10</foaf:ClumpThickness>
+      <foaf:cellsize>4</foaf:cellsize>
+	<foaf:cellshape>2</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>2</foaf:BareNuclei>
+	<foaf:BlandChromatin>4</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>3</foaf:NormalNucleoli>
+	<foaf:Mitoses>10</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>4</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>3</foaf:cellsize>
+	<foaf:cellshape>4</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>8</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>4</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>9</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>8</foaf:cellsize>
+	<foaf:cellshape>9</foaf:cellshape>
+	<foaf:marginaladhesion>4</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>7</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>8</foaf:ClumpThickness>
+      <foaf:cellsize>3</foaf:cellsize>
+	<foaf:cellshape>8</foaf:cellshape>
+	<foaf:marginaladhesion>3</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>4</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>9</foaf:BareNuclei>
+	<foaf:BlandChromatin>8</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>9</foaf:NormalNucleoli>
+	<foaf:Mitoses>8</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>2</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>3</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>6</foaf:ClumpThickness>
+      <foaf:cellsize>10</foaf:cellsize>
+	<foaf:cellshape>2</foaf:cellshape>
+	<foaf:marginaladhesion>8</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>10</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>2</foaf:BareNuclei>
+	<foaf:BlandChromatin>7</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>8</foaf:NormalNucleoli>
+	<foaf:Mitoses>10</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>3</foaf:cellsize>
+	<foaf:cellshape>3</foaf:cellshape>
+	<foaf:marginaladhesion>2</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>7</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>2</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>9</foaf:ClumpThickness>
+      <foaf:cellsize>4</foaf:cellsize>
+	<foaf:cellshape>5</foaf:cellshape>
+	<foaf:marginaladhesion>10</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>6</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>4</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>8</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>10</foaf:ClumpThickness>
+      <foaf:cellsize>6</foaf:cellsize>
+	<foaf:cellshape>4</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>4</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>2</foaf:NormalNucleoli>
+	<foaf:Mitoses>3</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>4</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>3</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>7</foaf:ClumpThickness>
+      <foaf:cellsize>8</foaf:cellsize>
+	<foaf:cellshape>7</foaf:cellshape>
+	<foaf:marginaladhesion>2</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>4</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>8</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>8</foaf:NormalNucleoli>
+	<foaf:Mitoses>2</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>6</foaf:ClumpThickness>
+      <foaf:cellsize>10</foaf:cellsize>
+	<foaf:cellshape>5</foaf:cellshape>
+	<foaf:marginaladhesion>5</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>4</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>6</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>10</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>9</foaf:ClumpThickness>
+      <foaf:cellsize>5</foaf:cellsize>
+	<foaf:cellshape>8</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>3</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>5</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>3</foaf:cellsize>
+	<foaf:cellshape>3</foaf:cellshape>
+	<foaf:marginaladhesion>4</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>4</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>4</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>10</foaf:ClumpThickness>
+      <foaf:cellsize>3</foaf:cellsize>
+	<foaf:cellshape>6</foaf:cellshape>
+	<foaf:marginaladhesion>2</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>5</foaf:BareNuclei>
+	<foaf:BlandChromatin>4</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>10</foaf:NormalNucleoli>
+	<foaf:Mitoses>2</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>5</foaf:cellsize>
+	<foaf:cellshape>5</foaf:cellshape>
+	<foaf:marginaladhesion>8</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>10</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>8</foaf:BareNuclei>
+	<foaf:BlandChromatin>7</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>3</foaf:NormalNucleoli>
+	<foaf:Mitoses>7</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>10</foaf:ClumpThickness>
+      <foaf:cellsize>5</foaf:cellsize>
+	<foaf:cellshape>5</foaf:cellshape>
+	<foaf:marginaladhesion>6</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>8</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>8</foaf:BareNuclei>
+	<foaf:BlandChromatin>7</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>10</foaf:ClumpThickness>
+      <foaf:cellsize>6</foaf:cellsize>
+	<foaf:cellshape>6</foaf:cellshape>
+	<foaf:marginaladhesion>3</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>4</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>5</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>6</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>8</foaf:ClumpThickness>
+      <foaf:cellsize>10</foaf:cellsize>
+	<foaf:cellshape>10</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>6</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>9</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>8</foaf:ClumpThickness>
+      <foaf:cellsize>2</foaf:cellsize>
+	<foaf:cellshape>4</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>5</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>5</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>4</foaf:NormalNucleoli>
+	<foaf:Mitoses>4</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>2</foaf:cellsize>
+	<foaf:cellshape>3</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>6</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>5</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>9</foaf:ClumpThickness>
+      <foaf:cellsize>5</foaf:cellsize>
+	<foaf:cellshape>5</foaf:cellshape>
+	<foaf:marginaladhesion>2</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>2</foaf:BareNuclei>
+	<foaf:BlandChromatin>5</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>3</foaf:cellsize>
+	<foaf:cellshape>3</foaf:cellshape>
+	<foaf:marginaladhesion>2</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>2</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>2</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>3</foaf:cellsize>
+	<foaf:cellshape>5</foaf:cellshape>
+	<foaf:marginaladhesion>5</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>3</foaf:BareNuclei>
+	<foaf:BlandChromatin>4</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>10</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>2</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>3</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>9</foaf:ClumpThickness>
+      <foaf:cellsize>10</foaf:cellsize>
+	<foaf:cellshape>10</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>10</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>8</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>3</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>9</foaf:ClumpThickness>
+      <foaf:cellsize>10</foaf:cellsize>
+	<foaf:cellshape>10</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>10</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>8</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>3</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>7</foaf:ClumpThickness>
+      <foaf:cellsize>6</foaf:cellsize>
+	<foaf:cellshape>6</foaf:cellshape>
+	<foaf:marginaladhesion>3</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>7</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>6</foaf:ClumpThickness>
+      <foaf:cellsize>2</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>1</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>7</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>3</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>6</foaf:ClumpThickness>
+      <foaf:cellsize>3</foaf:cellsize>
+	<foaf:cellshape>2</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>4</foaf:BareNuclei>
+	<foaf:BlandChromatin>4</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>4</foaf:cellsize>
+	<foaf:cellshape>4</foaf:cellshape>
+	<foaf:marginaladhesion>9</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>5</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>6</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>2</foaf:ClumpThickness>
+      <foaf:cellsize>5</foaf:cellsize>
+	<foaf:cellshape>3</foaf:cellshape>
+	<foaf:marginaladhesion>3</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>6</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>7</foaf:BareNuclei>
+	<foaf:BlandChromatin>7</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>5</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>6</foaf:ClumpThickness>
+      <foaf:cellsize>3</foaf:cellsize>
+	<foaf:cellshape>3</foaf:cellshape>
+	<foaf:marginaladhesion>3</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>2</foaf:BareNuclei>
+	<foaf:BlandChromatin>6</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>6</foaf:ClumpThickness>
+      <foaf:cellsize>6</foaf:cellsize>
+	<foaf:cellshape>6</foaf:cellshape>
+	<foaf:marginaladhesion>9</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>6</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>7</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>8</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>10</foaf:ClumpThickness>
+      <foaf:cellsize>4</foaf:cellsize>
+	<foaf:cellshape>3</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>3</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>3</foaf:BareNuclei>
+	<foaf:BlandChromatin>6</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>5</foaf:NormalNucleoli>
+	<foaf:Mitoses>2</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>6</foaf:ClumpThickness>
+      <foaf:cellsize>10</foaf:cellsize>
+	<foaf:cellshape>10</foaf:cellshape>
+	<foaf:marginaladhesion>2</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>8</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>7</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>3</foaf:NormalNucleoli>
+	<foaf:Mitoses>3</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>6</foaf:ClumpThickness>
+      <foaf:cellsize>10</foaf:cellsize>
+	<foaf:cellshape>10</foaf:cellshape>
+	<foaf:marginaladhesion>2</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>8</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>10</foaf:BareNuclei>
+	<foaf:BlandChromatin>7</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>3</foaf:NormalNucleoli>
+	<foaf:Mitoses>3</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>5</foaf:ClumpThickness>
+      <foaf:cellsize>6</foaf:cellsize>
+	<foaf:cellshape>5</foaf:cellshape>
+	<foaf:marginaladhesion>6</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>10</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>3</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>10</foaf:ClumpThickness>
+      <foaf:cellsize>10</foaf:cellsize>
+	<foaf:cellshape>10</foaf:cellshape>
+	<foaf:marginaladhesion>4</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>8</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>8</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>10</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>2</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>3</foaf:ClumpThickness>
+      <foaf:cellsize>7</foaf:cellsize>
+	<foaf:cellshape>7</foaf:cellshape>
+	<foaf:marginaladhesion>4</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>4</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>9</foaf:BareNuclei>
+	<foaf:BlandChromatin>4</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>8</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>0</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>1</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>2</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:ClumpThickness>4</foaf:ClumpThickness>
+      <foaf:cellsize>1</foaf:cellsize>
+	<foaf:cellshape>1</foaf:cellshape>
+	<foaf:marginaladhesion>1</foaf:marginaladhesion>
+	<foaf:SingleEpithelialCellSize>2</foaf:SingleEpithelialCellSize>
+	<foaf:BareNuclei>1</foaf:BareNuclei>
+	<foaf:BlandChromatin>1</foaf:BlandChromatin>
+	<foaf:NormalNucleoli>1</foaf:NormalNucleoli>
+	<foaf:Mitoses>1</foaf:Mitoses>
+	<foaf:Cancer>1</foaf:Cancer>
+     </foaf:Person>
+  </foaf:knows>
+
+
+
+
+
+
+
+
+
+
+  
+  <foaf:made>
+    <rss:channel rdf:about="http://planetrdf.com/guide/">
+      <rss:title>RDF Resource Guide</rss:title>
+      <rdfs:seeAlso rdf:resource="http://planetrdf.com/guide/rss.rdf"/>
+    </rss:channel>
+  </foaf:made>
+
+
+  <foaf:made>
+    <foaf:Document rdf:about="http://journal.dajobe.org/journal/2003/07/semblogs/">
+       <dc:title>Semantic Weblogs</dc:title>
+       <rdfs:seeAlso>
+         <rss:channel rdf:about="http://journal.dajobe.org/journal/2003/07/semblogs/bloggers.rdf" rss:title="Semantic Weblogs"/>
+       </rdfs:seeAlso>
+    </foaf:Document>
+  </foaf:made>
+
+
+  <foaf:interest>
+    <rdf:Description rdf:about="http://dublincore.org/" dc:title="Dublin Core Metadata Initiative" />
+  </foaf:interest>
+
+  <foaf:interest>
+    <rdf:Description rdf:about="http://www.w3.org/RDF/" dc:title="Resource Description Framework (RDF)" /> 
+  </foaf:interest>
+
+  <foaf:interest>
+    <rdf:Description rdf:about="http://purl.org/rss/" dc:title="RDF Site Summary (RSS 1.0)" />
+  </foaf:interest>
+
+  <foaf:interest>
+    <rdf:Description rdf:about="http://www.w3.org/Metadata/" dc:title="Metadata" /> 
+  </foaf:interest>
+
+  <foaf:interest>
+    <rdf:Description rdf:about="http://www.w3.org/2000/01/sw/" dc:title="Semantic Web" /> 
+  </foaf:interest>
+
+  <foaf:interest rdf:resource="http://www.friendspace.com/groups/galway-foaf-2004"/>
+
+</foaf:Person>
+
+
+<!-- Documents -->
+
+
+ <!-- digital signature for this file -->
+ <rdf:Description rdf:about="">
+   <wot:assurance rdf:resource="webwho.xrdf.asc" />
+ </rdf:Description>
+
+
+</rdf:RDF>
+
